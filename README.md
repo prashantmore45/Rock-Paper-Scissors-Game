@@ -19,4 +19,8 @@ Play against the computer and see if you can win!
 - Displays results for each round
 - Keeps track of scores (if implemented)
 
+# 🚀 Daily Progress Log
+
+Committed to learning, building, and improving every single day.  
+Every small step counts towards something big. 🌱
 
