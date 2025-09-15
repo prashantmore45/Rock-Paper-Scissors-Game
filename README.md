@@ -5,13 +5,15 @@ Hi, this is an simple project based on game which can be played between two play
 A simple **Rock Paper Scissors** game implemented in [your programming language here].  
 Play against the computer and see if you can win!
 
-## How It Works
-- The player chooses **Rock**, **Paper**, or **Scissors**.
-- The computer randomly chooses its option.
-- The winner is decided based on the classic rules:
-  - Rock beats Scissors
-  - Scissors beats Paper
-  - Paper beats Rock
+## How the Game Works
+1. Choose Rock, Paper, or Scissors by clicking the button.  
+2. The computer randomly selects one option.  
+3. Rules:  
+   - Rock beats Scissors  
+   - Scissors beats Paper  
+   - Paper beats Rock  
+4. The result is displayed immediately (Win/Lose/Draw).  
+
 
 ## Features
 - Interactive gameplay
